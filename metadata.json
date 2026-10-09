@@ -1,0 +1,6 @@
+{
+  "name": "Geopolitical Undersea Cable Dashboard",
+  "description": "Interactive GIS intelligence dashboard analyzing global undersea data cables, strategic maritime choke points, landing stations, and geopolitical risk vectors.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
